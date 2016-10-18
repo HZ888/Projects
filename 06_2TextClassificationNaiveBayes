@@ -1,6 +1,5 @@
 import nltk
 import numpy, pprint, pickle, random, string, pandas, re,sys, os, codecs
-import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from sklearn import svm, linear_model, naive_bayes
